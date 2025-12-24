@@ -319,7 +319,7 @@ export const theatres = [
 export const ordersData = [
   {
     id: "TCAKJAB",
-    title: "Dhurandhar",
+    title: "Sinners",
     format: "2D",
     datetime: "Tue, 10 Dec 2025 | 9:15 PM",
     cinema: "PVR Vegas, Dwarka, New Delhi",
